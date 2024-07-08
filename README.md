@@ -7,7 +7,7 @@ I'm a 14-year-old beginner coder with a dream to become a billionaire one day. I
 
 ## GitHub Stats
 
-![Nahidh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nahidh96&show_icons=true&theme=dark&count_private=true&hide=contribs,prs)
+![Nahidh's GitHub Stats]([https://github-readme-stats.vercel.app/api?username=Nahidh96&show_icons=true&theme=dark&count_private=true&hide=contribs,prs](https://github-readme-stats.vercel.app/api?username=Nahidh96&show_icons=true&theme=dark&count_private=true))
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nahidh96&layout=compact&theme=dark&count_private=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nahidh96&theme=dark)
 
