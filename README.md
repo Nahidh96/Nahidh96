@@ -7,8 +7,8 @@ I'm a 14-year-old beginner coder with a dream to become a billionaire one day. I
 
 ## GitHub Stats
 
-![Nahidh's GitHub Stats]([https://github-readme-stats.vercel.app/api?username=Nahidh96&show_icons=true&theme=dark&count_private=true&hide=contribs,prs](https://github-readme-stats.vercel.app/api?username=Nahidh96&show_icons=true&theme=dark&count_private=true))
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nahidh96&layout=compact&theme=dark&count_private=true)
+![Nahidh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nahidh96&show_icons=true&theme=dark&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nahidh96&layout=compact&theme=dark&langs_count=5)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nahidh96&theme=dark)
 
 - 🏆 **Total Stars Earned**: 108
@@ -18,7 +18,7 @@ I'm a 14-year-old beginner coder with a dream to become a billionaire one day. I
 - 📅 **Contributed to (last year)**: 4
 
 ## Skills
-- **Languages**: HTML, CSS, JavaScript, PHP
+- **Languages**: PHP, HTML, CSS, JavaScript, Python
 - **Frameworks**: Bootstrap, Laravel
 - **Tools**: Git, Docker
 
