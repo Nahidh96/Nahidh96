@@ -1,47 +1,24 @@
-# 👋 Hi there! I'm Nahidh
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3566E6&width=435&lines=%F0%9F%91%8B+Hey+there!+I'm+Nahidh;%F0%9F%9A%80+I+love+coding+and+building+cool+projects.;%F0%9F%8C%9F+Constantly+learning+and+exploring+new+tech.;%F0%9F%92%BB+Let's+connect+and+collaborate+on+GitHub!;%F0%9F%93%AB+Reach+out+to+me+for+anything+tech-related!" alt="Typing SVG" />
+</a>
+</p>
+<br>
 
-![Profile views](https://gpvc.arturio.dev/Nahidh96) ![GitHub followers](https://img.shields.io/github/followers/Nahidh96?label=Follow&style=social) ![GitHub User's stars](https://img.shields.io/github/stars/Nahidh96?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Nahidh96&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true"><br><br>
+  <img width="370px" src="https://github-readme-stats.vercel.app/api?username=Nahidh96&custom_title=Nahidh's+Github+Stats&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&cache_seconds=1800" />
+  <img width="370px" src="https://github-readme-streak-stats.herokuapp.com/?user=Nahidh96&background=00000000&hide_border=true&stroke=878787&ring=4c8ed9&fire=4c8ed9&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" />
+</div>
 
-## About Me
-I'm a 14-year-old beginner coder with a dream to become a billionaire one day. I'm currently working on a project called Agriconnect, which aims to bridge the gap between farmers and consumers. I enjoy learning new technologies and contributing to exciting projects. I'm also from Trinity College Kandy and love keeping my personality covered from others.
+<br></br>
 
-## GitHub Stats
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,vite,vue,angular,flutter,dart,kotlin,materialui,css,sass,tailwind,javascript,nodejs,typescript,python,mysql,mongodb,firebase,gcp,docker,kubernetes,azure,aws,cloudflare,netlify,heroku,postman,appwrite,atom,rust" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,githubactions,git,stackoverflow,devto,bots,vscode,idea,figma" />
+  </a>
+</p>
 
-![Nahidh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nahidh96&show_icons=true&theme=dark&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nahidh96&layout=compact&theme=dark&langs_count=5)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nahidh96&theme=dark)
-
-- 🏆 **Total Stars Earned**: 108
-- 🚀 **Total Commits (2024)**: 87
-- 🛠️ **Total PRs**: 63
-- 📝 **Total Issues**: 11
-- 📅 **Contributed to (last year)**: 4
-
-## Skills
-- **Languages**: PHP, HTML, CSS, JavaScript, Python
-- **Frameworks**: Bootstrap, Laravel
-- **Tools**: Git, Docker
-
-## Projects
-### Agriconnect
-[Agriconnect](https://github.com/Nahidh96/agriconnect): A platform connecting farmers and consumers for direct sale of agricultural products. Here are some of its features:
-- **User and Seller Integration**: Smooth checkout system for users and sellers.
-- **Seller Dashboard**: Manage orders, track earnings, and view messages.
-- **Pre-order Feature**: Users can pre-order products that are not yet available.
-- **Community Forum**: A place for users to discuss agricultural topics.
-- **Educational Resources**: Learn more about agriculture and farming techniques.
-
-## Contact Me
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin/)
-- [![Twitter](https://img.shields.io/twitter/follow/your-twitter?style=social)](https://twitter.com/your-twitter)
-- [![Email](https://img.shields.io/badge/Email-Contact-informational)](mailto:your-email@example.com)
-
-## Fun Facts
-- 🌱 I'm always eager to learn new coding languages and technologies.
-- 🚀 I aim to use my coding skills to make a positive impact on the world.
-- 💡 I believe in continuous learning and self-improvement.
-
-## Support
-If you like my work, consider buying me a coffee!
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow)](https://www.buymeacoffee.com/your-profile)
+[![Nahidh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nahidh96&bg_color=0d1117&color=878787&line=4c8ed9&point=878787&area=true&hide_border=true)](https://github.com/Nahidh96/github-readme-activity-graph)
