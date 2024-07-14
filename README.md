@@ -3,6 +3,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3566E6&width=435&lines=%F0%9F%91%8B+Hey+there!+I'm+Nahidh!" alt="Typing SVG" />
   <br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3566E6&width=435&lines=%F0%9F%91%8B+Constantly+learning+and+exploring+new+tech.;%F0%9F%92%BB+Let's+connect+and+collaborate+on+GitHub!;%F0%9F%93%AB+Reach+out+to+me+for+anything+tech-related!" alt="Typing SVG" />
+  <br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3566E6&width=435&lines=%F0%9F%91%8B+English+or!+Spanish?" alt="Typing SVG" />
   </center>
   <hr>
 </a>
