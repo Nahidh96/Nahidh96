@@ -16,7 +16,6 @@
   <a href="https://skillicons.dev">
     <img width="700px" src="https://skillicons.dev/icons?i=php,react,angular,flutter,materialui,css,sass,tailwind,javascript,nodejs,typescript,python,mysql,mongodb,firebase,docker,kubernetes,azure,aws,cloudflare,netlify,heroku,postman,appwrite,atom,git,java,c#,ruby,swift" />
   </a>
-  <br><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,githubactions,git,stackoverflow,devto,bots,vscode,idea,figma" />
   </a>
