@@ -17,10 +17,6 @@
 <hr>
 </div>
 
-<br>
-
-<br>
-
 <p align="center">
   <b>Skills:</b>
   <br><br>
