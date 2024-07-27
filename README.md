@@ -35,8 +35,9 @@
 </a>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img width="370px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahidh96&layout=compact&hide=html,css&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe" />
-  <img width="370px" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahidh96&layout=compact&hide=html,css&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe" />
+  <img 
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </div>
 
 
