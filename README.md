@@ -28,9 +28,7 @@
   </a>
   <br>
   <br>
-  <Center>
-  <img width="850px" src="https://github-profile-trophy.vercel.app/?username=Nahidh96&theme=onedark&no-frame=true&no-bg=true&rank=-?&column=5" />
-  </Center>
+  <img width="850px" src="https://github-profile-trophy.vercel.app/?username=Nahidh96&theme=onedark&no-bg=true&rank=-?&column=5" />
 </p>
 
 <hr>
