@@ -1,10 +1,11 @@
 <center>
   <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3566E6&width=435&lines=%F0%9F%91%8B+Hey+there!+I'm+Nahidh!" alt="Typing SVG" />
-  </center>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3566E6&width=435&lines=%F0%9F%91%8B+Hey+there!+I'm+Nahidh!" alt="Typing SVG" />
+    </a>
+  </p>
   <hr>
-</a>
-</p>
+</center>
 <br>
 
 <div align="center">
@@ -21,11 +22,10 @@
   </a>
   <br>
   <br>
-  <img width="750px" src="https://github-profile-trophy.vercel.app/?username=Nahidh96&theme=onedark&no-frame=true&no-bg=true" />
+  <!-- Simplified trophy section -->
+  <img width="750px" src="https://github-profile-trophy.vercel.app/?username=Nahidh96&theme=onedark&no-frame=true&no-bg=true&column=4" />
 </p>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nahidh96&bg_color=0d1117&color=878787&line=4c8ed9&point=878787&area=true&hide_border=true" alt="GitHub Contribution Graph">
 </a>
-
-
