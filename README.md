@@ -39,13 +39,13 @@
   <a href="mailto:mnmnahidh@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23E34F26?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://discord.com/users/your-discord-id">
+  <a href="https://discord.com/users/Nahidh96">
     <img src="https://img.shields.io/badge/Discord-%23000000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://www.instagram.com/nahidh_naseem/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-username/">
+  <a href="https://www.linkedin.com/in/nahidh-naseem-419916228/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
