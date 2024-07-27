@@ -29,7 +29,7 @@
   <br>
   <br>
   <Center>
-  <img width="1000px" src="https://github-profile-trophy.vercel.app/?username=Nahidh96&theme=onedark&no-frame=true&no-bg=true&rank=-?" />
+  <img width="1000px" src="https://github-profile-trophy.vercel.app/?username=Nahidh96&theme=onedark&no-frame=true&no-bg=true&rank=-?&column=4" />
   </Center>
 </p>
 
