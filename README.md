@@ -28,7 +28,9 @@
   </a>
   <br>
   <br>
-  <img width="1150px" src="https://github-profile-trophy.vercel.app/?username=Nahidh96&theme=onedark&no-frame=true&no-bg=true&title=Commits,Experience,Repositories,PullRequest" />
+  <Center>
+  <img width="1000px" src="https://github-profile-trophy.vercel.app/?username=Nahidh96&theme=onedark&no-frame=true&no-bg=true&title=Commits,Experience,Repositories,PullRequest" />
+  </Center>
 </p>
 
 <hr>
