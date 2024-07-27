@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img width="700px" src="https://skillicons.dev/icons?i=php,react,angular,flutter,materialui,css,sass,tailwind,javascript,nodejs,typescript,python,mysql,mongodb,firebase,docker,kubernetes,azure,aws,cloudflare,netlify,heroku,postman,appwrite,atom,git,java,stackoverflow,figma,c#" />
+    <img width="700px" src="https://skillicons.dev/icons?i=php,react,angular,flutter,materialui,css,sass,tailwind,javascript,nodejs,typescript,python,mysql,mongodb,firebase,docker,kubernetes,azure,aws,cloudflare,netlify,heroku,postman,appwrite,atom,git,java,c#" />
   </a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,githubactions,git,devto,bots,vscode,idea" />
@@ -30,11 +30,22 @@
   <img width="750px" src="https://github-profile-trophy.vercel.app/?username=Nahidh96&theme=onedark&no-frame=true&no-bg=true" />
 </p>
 
-<!--
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahidh96&layout=compact&hide=html,css&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe" />
-  <img 
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</div>
--->
+<br>
 
+<!-- Connect with me section -->
+<p align="center">
+  <b>Connect with me:</b>
+  <br><br>
+  <a href="mailto:mnmnahidh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23E34F26?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://discord.com/users/your-discord-id">
+    <img src="https://img.shields.io/badge/Discord-%23000000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://www.instagram.com/nahidh_naseem/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-username/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
