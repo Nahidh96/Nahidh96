@@ -27,5 +27,8 @@
   <img width="750px" src="https://github-profile-trophy.vercel.app/?username=Nahidh96&theme=onedark&no-frame=true&no-bg=true" />
 </p>
 
-![GitHub contributions](https://github-contributions.vercel.app/api?username=Nahidh96&theme=dark)
+<a href="https://github.com/Nahidh96">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nahidh96&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=dark" alt="Nahidh's GitHub Stats">
+</a>
+
 
