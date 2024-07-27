@@ -30,7 +30,7 @@
   <img width="750px" src="https://github-profile-trophy.vercel.app/?username=Nahidh96&theme=onedark&no-frame=true&no-bg=true" />
 </p>
 
-<br>
+<hr>
 
 <!-- Connect with me section -->
 <p align="center">
