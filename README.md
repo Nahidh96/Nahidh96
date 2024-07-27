@@ -11,7 +11,7 @@
 
 <div align="center">
 <img width="370px" height="190px" src="https://github-readme-stats.vercel.app/api?username=Nahidh96&custom_title=Nahidh's+Github+Stats&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe" />
-<img width="370px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Nahidh96&background=00000000&hide_border=true&stroke=878787 />
+<img width="370px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Nahidh96&background=00000000&hide_border=true&stroke=878787" />
 <!--<img width="370px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahidh96&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />-->
 </div>
 
