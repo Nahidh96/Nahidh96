@@ -24,7 +24,7 @@
   </a>
   <br>
   <br>
-  <img width="900px" src="https://github-profile-trophy.vercel.app/?username=Nahidh96&theme=onedark&no-frame=true&no-bg=true" />
+  <img width="750px" src="https://github-profile-trophy.vercel.app/?username=Nahidh96&theme=onedark&no-frame=true&no-bg=true" />
 </p>
 
 
