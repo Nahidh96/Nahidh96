@@ -29,7 +29,7 @@
   <br>
   <br>
   <Center>
-  <img width="1000px" src="https://github-profile-trophy.vercel.app/?username=Nahidh96&theme=onedark&no-frame=true&no-bg=true&title=Commits,Experience,Repositories,PullRequest" />
+  <img width="1000px" src="https://github-profile-trophy.vercel.app/?username=Nahidh96&theme=onedark&no-frame=true&no-bg=true&rank=-C,-B" />
   </Center>
 </p>
 
