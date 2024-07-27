@@ -29,7 +29,6 @@
 </a>
 
 <p align="center" style="font-size: 16px; color: #878787; margin-top: 30px;">
-  <strong>Most Used Languages</strong>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahidh96&layout=compact&hide=html,css&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe" />
