@@ -27,5 +27,5 @@
   <img width="750px" src="https://github-profile-trophy.vercel.app/?username=Nahidh96&theme=onedark&no-frame=true&no-bg=true" />
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nahidh96&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide_rank=true&theme=dark)
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nahidh96)
 
