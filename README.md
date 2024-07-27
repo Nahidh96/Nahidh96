@@ -17,7 +17,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,react,angular,flutter,materialui,css,sass,tailwind,javascript,nodejs,typescript,python,mysql,mongodb,firebase,docker,kubernetes,azure,aws,cloudflare,netlify,heroku,postman,appwrite,atom,graphql,c#,git,sql" />
+    <img src="https://skillicons.dev/icons?i=php,react,angular,flutter,materialui,css,sass,tailwind,javascript,nodejs,typescript,python,mysql,mongodb,firebase,docker,kubernetes,azure,aws,cloudflare,netlify,heroku,postman,appwrite,atom,c++,git,sql" />
   </a>
   <br><br>
   <a href="https://skillicons.dev">
