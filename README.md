@@ -25,6 +25,7 @@
   <br>
   <br>
   <img width="750px" src="https://github-profile-trophy.vercel.app/?username=Nahidh96&theme=onedark&no-frame=true&no-bg=true" />
+  <img width="370px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahidh96&layout=compact&bg_color=00000000&title_color=58a6fe&text_color=878787&hide_border=true" />
 </p>
 
 
