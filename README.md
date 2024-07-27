@@ -16,7 +16,7 @@
 </div>
 <br>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev" align="center">
     <img src="https://skillicons.dev/icons?i=php,react,angular,flutter,materialui,css,sass,tailwind,javascript,nodejs,typescript,python,mysql,mongodb,firebase,docker,kubernetes,azure,aws,cloudflare,netlify,heroku,postman,appwrite,atom,rust" />
   </a>
   <br>
