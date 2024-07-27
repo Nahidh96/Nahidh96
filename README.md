@@ -28,6 +28,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nahidh96&bg_color=0d1117&color=878787&line=4c8ed9&point=878787&area=true&hide_border=true" alt="GitHub Contribution Graph">
 </a>
 
+<img width="370px" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+
 <p align="center" style="font-size: 16px; color: #878787; margin-top: 30px;">
 </p>
 <p align="center">
