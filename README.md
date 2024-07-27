@@ -1,8 +1,6 @@
 <center>
   <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3566E6&width=435&lines=%F0%9F%91%8B+Hey+there!+I'm+Nahidh!" alt="Typing SVG" />
-  <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3566E6&width=435&lines=%F0%9F%91%8B+Constantly+learning+and+exploring+new+tech.;%F0%9F%92%BB+Let's+connect;%F0%9F%93%AB+Reach+out+to+me+for+tech-related-stuff!" alt="Typing SVG" />
   </center>
   <hr>
 </a>
@@ -27,6 +25,8 @@
   <img width="750px" src="https://github-profile-trophy.vercel.app/?username=Nahidh96&theme=onedark&no-frame=true&no-bg=true" />
 </p>
 
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nahidh96)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nahidh96&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark" alt="GitHub Stats">
+</a>
 
 
