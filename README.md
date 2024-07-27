@@ -17,14 +17,13 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <center>
     <img src="https://skillicons.dev/icons?i=php,react,angular,flutter,materialui,css,sass,tailwind,javascript,nodejs,typescript,python,mysql,mongodb,firebase,docker,kubernetes,azure,aws,cloudflare,netlify,heroku,postman,appwrite,atom,rust" />
-    </center>
-    </a>
-  <br>
+  </a>
+  <br><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,githubactions,git,stackoverflow,devto,bots,vscode,idea,figma" />
   </a>
 </p>
+
 
 [![Nahidh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nahidh96&bg_color=0d1117&color=878787&line=4c8ed9&point=878787&area=true&hide_border=true)](https://github.com/Nahidh96/github-readme-activity-graph)
