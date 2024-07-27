@@ -27,9 +27,6 @@
   <img width="750px" src="https://github-profile-trophy.vercel.app/?username=Nahidh96&theme=onedark&no-frame=true&no-bg=true" />
 </p>
 
-<div style="text-align: center;">
-  <a href="https://github.com/Nahidh96/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nahidh96&bg_color=0d1117&color=878787&line=4c8ed9&point=878787&area=true&hide_border=true" alt="Nahidh's github activity graph" style="width: 900px;">
-  </a>
-</div>
+[![Nahidh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nahidh96&bg_color=0d1117&color=878787&line=4c8ed9&point=878787&area=true&hide_border=true)](https://github.com/Nahidh96/github-readme-activity-graph)
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nahidh96)
 
