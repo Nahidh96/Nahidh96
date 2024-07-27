@@ -13,6 +13,7 @@
   <img width="370px" src="https://github-readme-streak-stats.herokuapp.com/?user=Nahidh96&background=00000000&hide_border=true&stroke=878787&ring=4c8ed9&fire=4c8ed9&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" />
 </div>
 <br>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img width="700px" src="https://skillicons.dev/icons?i=php,react,angular,flutter,materialui,css,sass,tailwind,javascript,nodejs,typescript,python,mysql,mongodb,firebase,docker,kubernetes,azure,aws,cloudflare,netlify,heroku,postman,appwrite,atom,git,java,stackoverflow,figma,c#" />
@@ -22,10 +23,11 @@
   </a>
   <br>
   <br>
-  <!-- Simplified trophy section -->
-  <img width="750px" src="https://github-profile-trophy.vercel.app/?username=Nahidh96&theme=onedark&no-frame=true&no-bg=true&column=4" />
+  
+  <!-- Custom Trophy Section -->
+  <img width="750px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahidh96&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6fe&text_color=878787" alt="Top Languages" />
+  <br>
+  <img width="750px" src="https://github-readme-stats.vercel.app/api?username=Nahidh96&show_icons=true&hide_title=true&hide_border=true&count_private=true&bg_color=00000000&title_color=58a6fe&text_color=878787" alt="GitHub Stats" />
+  <br>
+  <img width="750px" src="https://github-readme-activity-graph.vercel.app/graph?username=Nahidh96&bg_color=0d1117&color=878787&line=4c8ed9&point=878787&area=true&hide_border=true" alt="GitHub Contribution Graph">
 </p>
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nahidh96&bg_color=0d1117&color=878787&line=4c8ed9&point=878787&area=true&hide_border=true" alt="GitHub Contribution Graph">
-</a>
