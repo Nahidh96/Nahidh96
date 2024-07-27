@@ -28,7 +28,7 @@
 </p>
 
 
-<a href="https://github.com/Nahidh96/github-readme-activity-graph">
+<a href="https://github.com/Nahidh96/github-readme-activity-graph" align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nahidh96&bg_color=0d1117&color=878787&line=4c8ed9&point=878787&area=true&hide_border=true" alt="Nahidh's github activity graph" width="900">
 </a>
 
