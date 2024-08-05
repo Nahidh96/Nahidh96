@@ -30,7 +30,7 @@
   <br>
   <b>Trophies (SSS, SS, S, A, B, C) :</b>
   <br><br>
-  <img width="600x" src="https://github-trophies.vercel.app/?username=Nahidh96&no-frame=false&no-bg=true&margin-w=10&theme=onedark" />
+  <img width="600x" src="https://github-trophies.vercel.app/?username=Nahidh96&no-frame=false&no-bg=true&margin-w=10&theme=onedark&rank=-?" />
 </p>
 
 <hr>
