@@ -21,7 +21,7 @@
   <b>Skills:</b>
   <br><br>
   <a href="https://skillicons.dev">
-    <img width="700px" src="https://skillicons.dev/icons?i=php,react,angular,flutter,materialui,css,sass,tailwind,javascript,nodejs,typescript,python,mysql,mongodb,firebase,docker,kubernetes,azure,aws,cloudflare,netlify,heroku,postman,appwrite,atom,git,java,c#" />
+    <img width="700px" src="https://skillicons.dev/icons?i=php,react,angular,flutter,materialui,css,html,tailwind,javascript,nodejs,typescript,python,mysql,mongodb,firebase,docker,kubernetes,azure,aws,cloudflare,netlify,heroku,postman,appwrite,atom,git,java,c#" />
   </a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,githubactions,git,devto,bots,vscode,idea" />
