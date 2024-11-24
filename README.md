@@ -42,8 +42,8 @@
   <a href="mailto:mnmnahidh@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23E34F26?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://discord.com/users/Nahidh96">
-    <img src="https://img.shields.io/badge/Discord-%23000000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <a href="https://buymeacoffee.com/nahidhnaseem">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
   </a>
   <a href="https://www.instagram.com/nahidh_naseem/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
